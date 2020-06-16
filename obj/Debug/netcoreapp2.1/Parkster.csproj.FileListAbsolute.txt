@@ -1,0 +1,14 @@
+C:\Workspace\Parkster\bin\Debug\netcoreapp2.1\Parkster.deps.json
+C:\Workspace\Parkster\bin\Debug\netcoreapp2.1\Parkster.runtimeconfig.json
+C:\Workspace\Parkster\bin\Debug\netcoreapp2.1\Parkster.runtimeconfig.dev.json
+C:\Workspace\Parkster\bin\Debug\netcoreapp2.1\Parkster.dll
+C:\Workspace\Parkster\bin\Debug\netcoreapp2.1\Parkster.pdb
+C:\Workspace\Parkster\obj\Debug\netcoreapp2.1\Parkster.csprojAssemblyReference.cache
+C:\Workspace\Parkster\obj\Debug\netcoreapp2.1\Parkster.csproj.CoreCompileInputs.cache
+C:\Workspace\Parkster\obj\Debug\netcoreapp2.1\Parkster.RazorAssemblyInfo.cache
+C:\Workspace\Parkster\obj\Debug\netcoreapp2.1\Parkster.RazorAssemblyInfo.cs
+C:\Workspace\Parkster\obj\Debug\netcoreapp2.1\Parkster.AssemblyInfoInputs.cache
+C:\Workspace\Parkster\obj\Debug\netcoreapp2.1\Parkster.AssemblyInfo.cs
+C:\Workspace\Parkster\obj\Debug\netcoreapp2.1\Parkster.RazorTargetAssemblyInfo.cache
+C:\Workspace\Parkster\obj\Debug\netcoreapp2.1\Parkster.dll
+C:\Workspace\Parkster\obj\Debug\netcoreapp2.1\Parkster.pdb
